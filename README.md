@@ -25,7 +25,7 @@ discriminator_checkpoint = callbacks.ModelCheckpoint(
 もとのcolabのコード
 https://colab.research.google.com/drive/1K4DM2H8DyVKx9j05k52qLi_Ze2pyWD6y#scrollTo=-jMfIhJC_5Gc
 lightning 変更後のcolabコード
-https://colab.research.google.com/drive/1uqAHLJ7qA6R9NMkKVNkPcnEQHW54NT5e
+https://colab.research.google.com/drive/1uqAHLJ7qA6R9NMkKVNkPcnEQHW54NT5e#scrollTo=ZBh1AD1EZ5a7
 
 
 
